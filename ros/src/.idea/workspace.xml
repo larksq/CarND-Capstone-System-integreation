@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8dfd89b0-d281-4bd1-a10b-970cf5b4abd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1ZEg9DFc3HV2iZ3IYwZ74nHxQLj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/opt/ros" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ROSSettings.EXTRA_SOURCES">
+      <recent name="" />
+    </key>
+    <key name="ROSSettings.RECENT_KEYS">
+      <recent name="/opt/ros" />
+    </key>
+    <key name="ROSSettings.WORKSPACE">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+    <key name="ROSSettings.ROSDEP_SOURCES">
+      <recent name="https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/base.yaml&quot;https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/python.yaml&quot;https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/ruby.yaml" />
+    </key>
+    <key name="ROSSettings.EXCLUDED_XMLS">
+      <recent name="" />
+    </key>
+    <key name="ROSSettings.KNOWN_ROSDEP_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dfd89b0-d281-4bd1-a10b-970cf5b4abd1" name="Default Changelist" comment="" />
+      <created>1584409513688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584409513688</updated>
+      <workItem from="1584409523286" duration="52000" />
+      <workItem from="1584410018664" duration="29111000" />
+      <workItem from="1584648239580" duration="8128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584460621854">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="579" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1584460621854" />
+    <state x="503" y="439" key="FileChooserDialogImpl" timestamp="1584410365936">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="503" y="439" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1584410365936" />
+    <state x="74" y="331" width="1282" height="728" key="SettingsEditor" timestamp="1584484833563">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="74" y="331" width="1282" height="728" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1584484833563" />
+    <state x="880" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584648238767">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="880" y="380" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1584648238767" />
+  </component>
+</project>
